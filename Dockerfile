@@ -1,7 +1,7 @@
 FROM python:2.7-slim
 MAINTAINER Erico Andrei <ericof@plone.org>
 
-RUN mkdir -p /plone/{logs,.cache} /data
+RUN mkdir -p /plone/logs /plone/.cache /data
 ENV PWD=/plone
 ENV XDG_CACHE_HOME=/plone/.cache
 
