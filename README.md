@@ -12,7 +12,7 @@ A Docker image using a pip installation of Plone. Inspired by [Plone-pip](https:
 
 ### Supported tags and respective `Dockerfile` links
 
-- [`5.1.0`, `latest` (*5.1.0/Dockerfile*)](https://github.com/plone/plone.docker/blob/master/Dockerfile)
+- [`5.1.0`, `latest` (*5.1.0/Dockerfile*)](https://github.com/ericof/docker-plone/blob/master/Dockerfile)
 
 
 ## Prerequisites
